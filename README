@@ -1,0 +1,32 @@
+Cool Compiler for MIPS written in Haskell
+=========================================
+
+This is a compiler for Cool (the Classroom Object Oriented Language)
+that targets the MIPS architecture and is entirely written in Haskell.
+There are probably more compilers than programs out there that have been
+written for this particular language and this is just one of these
+compilers.
+
+Why another one?
+----------------
+
+Compilers are in my opinion one of the most interesting topics in
+computer science and for someone like me one of the most rewarding
+challenges is to start working on a compiler from scratch. Also I wanted
+to proof to myself and others that Haskell is in fact a wieldy tool to
+implement a compiler.
+
+Any Plans?
+----------
+
+There are none. It don't intend to continue hacking on this compiler nor
+do I think that there is any particular direction where this pet project
+could be heading. Feel free to fork though.
+
+Relevant Links
+--------------
+
+* Course: https://www.coursera.org/course/compilers
+* Language: http://en.wikipedia.org/wiki/Cool_(programming_language)
+* Lexer: http://www.haskell.org/alex/
+* Parser: http://www.haskell.org/happy/
